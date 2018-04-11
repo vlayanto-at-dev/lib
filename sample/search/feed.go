@@ -5,7 +5,7 @@ import (
 	"os"
 )
 
-const dataFile = "data.json"
+const dataFile = "data/data.json"
 
 // Feed contains the mapped feed from the input json formatted file
 type Feed struct {
